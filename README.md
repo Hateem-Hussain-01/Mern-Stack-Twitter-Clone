@@ -36,6 +36,17 @@ Welcome to the Twitter Clone Project! This project is an attempt to replicate th
 ## Getting Started
 
 To get a local copy of the project up and running, follow these simple steps.
+## Project Screenshots
+
+### Login Page
+![Login Page](.D:\Twitter-Clone-Project\feed.JPG/login.JPG)
+
+### Feed Page
+![Feed Page](./feed.JPG)
+
+### Main Page
+![Main Page](./main.JPG)
+
 
 ### Prerequisites
 
