@@ -47,7 +47,7 @@ To get a local copy of the project up and running, follow these simple steps.
 ### Feed Page
 ![Newws Feed Page](https://github.com/user-attachments/assets/20b3b647-c680-4b14-abd9-6da8733894fe)
 ### About Profile
-![About profile](https://github.com/user-attachments/assets/3168c306-c03a-4d31-b9cc-a809bce54152)
+![About](https://github.com/user-attachments/assets/e5e2e20a-9331-4d94-aadd-d8c73d580867)
 
 
 
