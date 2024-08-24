@@ -38,14 +38,15 @@ Welcome to the Twitter Clone Project! This project is an attempt to replicate th
 To get a local copy of the project up and running, follow these simple steps.
 ## Project Screenshots
 
+### Main Page
+![main](https://github.com/user-attachments/assets/b593e730-2b54-4c8d-a7d9-c4aa41326c9c)
+
 ### Login Page
-![Login Page](.D:\Twitter-Clone-Project\feed.JPG/login.JPG)
+![login](https://github.com/user-attachments/assets/14d64721-026f-4b64-9887-c700ed6e2b2d)
 
 ### Feed Page
-![Feed Page](./feed.JPG)
+![feed](https://github.com/user-attachments/assets/9e259eba-fc31-467e-9a1a-ddae23e81510)
 
-### Main Page
-![Main Page](./main.JPG)
 
 
 ### Prerequisites
